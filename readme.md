@@ -11,6 +11,10 @@ Now, ff you don't have access to Claude, you can implement the same with your LL
 - If found, open a HTML form and submits the information on that form. In doing so understand the form and the data available to match the data to the form fields. 
 - If not found, open a browser to do a google search
 - Gets the data from the browser, launches the HTMNL form and submits the data.
+
+Demo can be found at https://youtu.be/tSfgqjUmA9E
+Code at https://github.com/dheerajrhegde/ComputerUse
+
 ## Features
 - **Excel Data Extraction**: Read data from Excel files using Pandas.
 - **Automated Google Search**: Search for information on Google and analyze results using OpenAI.

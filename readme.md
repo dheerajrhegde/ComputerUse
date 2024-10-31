@@ -1,4 +1,4 @@
-# Automation Agent Project
+# Computer Use
 
 Few weeks back Anthripic launched Computer Use capability in Claude 3.5 Sonnet and Haiku. With this, users can have LLM developers can direct Claude to use computers the way people do.  https://www.anthropic.com/news/3-5-models-and-computer-use. 
 

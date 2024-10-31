@@ -1,0 +1,13 @@
+langchain
+pandas
+pytesseract
+openai
+pyautogui
+selenium
+bs4
+langchain-community
+langchain-openai
+langchain-core
+langgraph
+openpyxl
+streamlit

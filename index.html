@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Company Information Form</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        .form-container {
+            width: 300px;
+            margin: 50px auto;
+        }
+        label, input, textarea {
+            display: block;
+            width: 100%;
+            margin-bottom: 15px;
+        }
+        input, textarea {
+            padding: 8px;
+            box-sizing: border-box;
+        }
+        input[type="submit"] {
+            width: auto;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            cursor: pointer;
+            padding: 10px 20px;
+        }
+        input[type="submit"]:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+
+<div class="form-container">
+    <h2>Company Information</h2>
+    <form action="#" method="post">
+        <label for="company-name">Company Name:</label>
+        <input type="text" id="company-name" name="company-name" required>
+
+        <label for="company-address">Company Address:</label>
+        <textarea id="company-address" name="company-address" rows="4" required></textarea>
+
+        <input type="submit" value="Submit">
+    </form>
+</div>
+
+</body>
+</html>
